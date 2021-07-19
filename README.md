@@ -1,4 +1,4 @@
-# Certifice Kubernets Security Specialist (CKS) Bookmarks
+# Certified Kubernetes Security Specialist (CKS) Bookmarks
 
 [This is a list](cks-bookmarks.html) of bookmarks to import into Chrome that you could use as a starting point for your own list of bookmarks to be used during the actual test. While taking the CKS test you may access specific documentation websites. See the [official CKS docs](https://docs.linuxfoundation.org/tc-docs/certification/faq-cka-ckad-cks#cks) for information on what sites are allowed.
 
